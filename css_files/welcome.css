@@ -1,0 +1,26 @@
+#welcome-section-notLoggedIn{
+    height: 39vh;
+}
+
+
+#Welcome-Section-Buttons {
+    text-align: center;
+    margin: 0;
+}
+
+
+#Welcome-Section-Buttons > #Welcome-ul > li{
+    height: 0px;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+    padding-top: 0px;
+    margin: 0 1vw 0 1vw;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
+
